@@ -22,3 +22,5 @@ chrono = { version = "0.4", features = ["serde"] }
 tokio = { version = "1", features = ["macros", "tracing"] }
 kamadak-exif = "0.5.5"
 ffmpeg-next = "5.1.1"
+sha2 = "0.10.6"
+lazy_static = "1.4.0"
